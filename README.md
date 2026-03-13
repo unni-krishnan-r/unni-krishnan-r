@@ -69,7 +69,9 @@ Minor Degree in Robotics *(Ongoing)*
 ## 📷 Beyond Coding
 
 📸 Photography enthusiast (in my free time)
+
 🎖 Former NCC Cadet
+
 💡 Interested in building technology that solves real-world problems
 
 ---
@@ -77,7 +79,9 @@ Minor Degree in Robotics *(Ongoing)*
 ## 🎯 Goals
 
 • Become a skilled Full Stack Developer
+
 • Build intelligent real-world applications
+
 • Work on innovative smart systems
 
 ---
