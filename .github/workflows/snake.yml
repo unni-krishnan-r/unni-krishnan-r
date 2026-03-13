@@ -6,17 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: unni-krishnan-r
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake
+      - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
