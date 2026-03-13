@@ -85,6 +85,10 @@ Minor Degree in Robotics *(Ongoing)*
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/unni-krishnan-r/unni-krishnan-r/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔗 Connect With Me
 
 💼 LinkedIn
@@ -99,7 +103,3 @@ https://github.com/unni-krishnan-r
 ---
 
 ⭐ Always curious to learn, build, and improve.
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/unni-krishnan-r/unni-krishnan-r/blob/output/github-contribution-grid-snake.svg)
