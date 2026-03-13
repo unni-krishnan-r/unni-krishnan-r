@@ -49,8 +49,11 @@ Minor Degree in Robotics *(Ongoing)*
 ## 📜 Certifications
 
 ✔ Programming Foundations with Python – NxtWave
+
 ✔ Introduction to Databases – NxtWave
+
 ✔ Build Your Own Static Website – NxtWave
+
 ✔ Build Your Own Responsive Website – NxtWave
 
 ---
