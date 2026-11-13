@@ -15,11 +15,16 @@ Currently working on **TrueSlot – a Smart Parking System** while exploring web
 
 A smart web platform designed to help users easily find and manage parking slots efficiently.
 
+### Fyrnex - Micro-Location Fire Detection and Emergency Alert System
+
+A Real-Time Micro-Location Fire Detection, Alert, and Automated Safety Control System for Smart Infrastructure Protection
+
 Main ideas:
 • Visual parking slot selection
 • Smart slot management
 • User-friendly interface
 • Real-time parking visualization
+• Real-time fire detection and automated safety control system
 
 ---
 
@@ -98,7 +103,7 @@ Minor Degree in Robotics *(Ongoing)*
 https://github.com/unni-krishnan-r
 
 📧 Email
-[unninairr25@gmail.com](mailto:unninairr25@gmail.com)
+[unnikrishnanr.tech@gmail.com](mailto:unnikrishnanr.tech@gmail.com)
 
 ---
 
